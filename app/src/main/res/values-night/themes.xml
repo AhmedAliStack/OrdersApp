@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OrdersApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+        <item name="colorOnPrimary">@color/primaryDarkColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="colorOnSecondary">@color/secondaryDarkColor</item>
+
+        <item name="backgroundColor">@color/secondaryWhiteColor</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ButtonStyle1">
+        <item name="colorPrimary">@color/secondaryWhiteColor</item>
+        <item name="colorPrimaryVariant">@color/secondaryWhiteColor</item>
+        <item name="colorOnPrimary">@color/secondaryWhiteColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+</resources>

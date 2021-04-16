@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OrdersApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_orders_registered_yet_create_new">No Orders Registered yet, Create New!</string>
+    <string name="create_order">Create Order</string>
+    <string name="add_new_order">Add new order</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="time_to_be_delivered">Time to be Delivered</string>
+    <string name="location">Location</string>
+    <string name="add_location">Add Location</string>
+    <string name="submit_order">Submit Order</string>
+    <string name="orders">Orders</string>
+</resources>
