@@ -29,13 +29,13 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/bt_new_order"
-        style="@style/ButtonStyle1"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:textColor="@color/primaryTextColor"
         android:text="@string/create_order"
         android:textSize="@dimen/_12ssp"
-        app:backgroundTint="@android:color/transparent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_no_orders"

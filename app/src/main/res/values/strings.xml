@@ -12,4 +12,33 @@
     <string name="add_location">Add Location</string>
     <string name="submit_order">Submit Order</string>
     <string name="orders">Orders</string>
+    <string name="select_shopper">Select Shopper</string>
+    <string name="click_to_select_date">Click to Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="type_location_address">Type Location Address</string>
+    <string name="set_location">Set Location</string>
+    <string name="pick_from_gps">Pick from gps</string>
+    <string name="or">OR</string>
+    <string name="enter_location">You have to Enter Location</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_enable">You have to Enable Location if you want to Add Location</string>
+    <string name="loading">Loading..</string>
+    <string name="name_suffix">Name:</string>
+    <string name="phone_suffix">Phone:</string>
+    <string name="shopper">Shopper:</string>
+    <string name="delivery_time">Delivery Time:</string>
+    <string name="location_suffix">Location:</string>
+    <string name="rate_suffix">Rate:</string>
+    <string name="review">Review</string>
+    <string name="submit_review">Submit Review</string>
+
+    <string-array name="shopItems">
+        <item>Pick Item</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>WaterMelon</item>
+        <item>Dates</item>
+        <item>Tomato</item>
+    </string-array>
 </resources>
